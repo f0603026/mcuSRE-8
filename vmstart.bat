@@ -1,4 +1,5 @@
 @echo off
+rem 設定 vmrun 環境變數
 set PATH=%PATH%"C:\Program Files (x86)\VMware\VMware Player\";
 
 dir /ad
