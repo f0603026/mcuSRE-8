@@ -15,6 +15,3 @@ scp C:\Users\bigred\.ssh\id_ed25519.pub bigred@120.96.143.%ip%:C:\ProgramData\ss
 
 
 goto loop
-
-:: !QAZ2wsx  
-::exit
